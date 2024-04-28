@@ -16,7 +16,7 @@ for i in range(0, 9):
     name = f"Chair #{i+1}"
     description = "Inspired by the classic Eames chair, this chair is a perfect addition to any room."
     attributes = [{"trait_type": "Rarity", "value": rarity[i]}]
-    image = f"https://github.com/Amir23714/ProjectConfigurations/blob/main/ChairsNFTdata/images/item_{i}.jpg"
+    image = f"https://github.com/Amir23714/BeautifulChairs/tree/main/images/item_{i}.jpg"
 
     json_dict = {
         "name": name,

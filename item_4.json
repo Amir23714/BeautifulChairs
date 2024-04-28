@@ -1,0 +1,6 @@
+{
+  "name": "Chair #5",
+  "description": "Inspired by the classic Eames chair, this chair is a perfect addition to any room.",
+  "attributes": [{ "trait_type": "Rarity", "value": "Rare" }],
+  "image": "https://github.com/Amir23714/BeautifulChairs/tree/main/images/item_4.jpg"
+}
